@@ -1,6 +1,6 @@
 # write lambda function to find area of square , rectangle and triangle
 
-square = lambda a: a * 2
+square = lambda a: a * a
 print("Area of the square is", square(10))
 
 rectangle = lambda a, b: a * b

@@ -3,9 +3,9 @@ s = str(input("enter line of text:"))
 count = dict()
 words = s.split()
 
-for word in words:
-  if word in count:
-    count[word] += 1
+for x in words:
+  if x in count:
+    count[x] += 1
   else:
-    count[word] = 1
+    count[x] = 1
 print(count)

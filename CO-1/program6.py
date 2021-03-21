@@ -3,7 +3,7 @@
 li = []
 c = 0
 for i in range(3):
-    x = input("enter first names:")
+    x = input("enter names:")
     li.append(x)
 for i in li:
     for j in i:

@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="241bb901-19b9-4a40-8e80-8bafeec79cfa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CO-1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-1/.idea/CO-1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-2/.idea/CO-2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-3/.idea/CO-3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CO-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgm1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgm2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgm3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgm4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgm5.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.pgm5">
+  <component name="RunManager" selected="Python.pgm1">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CO-4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pgm1" />
         <item itemvalue="Python.pgm5" />
         <item itemvalue="Python.pgm4" />
         <item itemvalue="Python.pgm3" />
         <item itemvalue="Python.pgm2" />
-        <item itemvalue="Python.pgm1" />
       </list>
     </recent_temporary>
   </component>
